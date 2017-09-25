@@ -1,0 +1,15 @@
+{
+  "name": "lucifernodebot",
+  "version": "1.0.0",
+  "description": "Sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Utkarsh",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.10.1",
+    "restify": "^6.0.1"
+  }
+}
